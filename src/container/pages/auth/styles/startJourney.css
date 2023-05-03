@@ -1,0 +1,37 @@
+body{
+    background-color: #2D2C2C;
+}
+
+.start_journey{
+    height: 500pt;
+    width: 500pt;
+    /* background-color: blue; */
+    margin: auto;
+    padding: 50pt;
+}
+
+.start_journey_div_1, .start_journey_div_2{
+    width: 70%;
+    height: 25%;
+    margin: auto;
+    font-size: large;
+    font-weight: 500;
+    padding-top: 70pt;
+}
+
+
+.start_journey_div_1{
+    background-color: #1c2f35;
+    color: white;
+    margin-bottom: 10pt ;
+}
+
+.start_journey_div_2{
+    background-color: #fff;
+    color: black;
+    display: flex;
+}
+
+.startJourneyArrow{
+    width: 100pt;
+}
