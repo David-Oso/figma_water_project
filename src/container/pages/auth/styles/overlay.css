@@ -1,0 +1,15 @@
+body{
+    background-color: #2D2C2C;
+}
+.dottedBoxImage{
+    margin-top: 30%;
+    margin-left: 35%;
+}
+
+.over_lay img:hover{
+    transform: scale(1.2);
+}
+
+.over_lay img{
+    transition: all 0.2s ease-in-out;
+}

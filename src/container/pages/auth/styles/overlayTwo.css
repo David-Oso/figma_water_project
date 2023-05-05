@@ -1,0 +1,61 @@
+body{
+    background-color: #2D2C2C;
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+
+.overlayTwo{
+    height: 100vh;
+    width: 50vw;
+    background-color: black;
+    margin: auto;
+    padding: 10pt;
+    border-radius: 1cm;
+}
+
+.overlayTwo h2{
+    color: white;
+}
+
+.overlay_two_div{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 60px;
+    height: 80vh;
+}
+.overlay_two_content_div, .overlay_two_content_div_2{
+    padding: 14pt ;
+    width: 200pt;
+}
+
+.overlayTwoTopImage, .overlayTwoDownImage{
+    width: 200pt;
+}
+
+.overlay_two_text_div, .overlay_two_text_div_2{
+    text-align: left;
+    color: white;
+}
+
+.overlay_two_text_div, .overlay_two_text_div_2{
+    font-size: 25px;
+}
+
+.overlay_two_text_div, .overlay_two_text_div_2 p{
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.overlay_two_content_div_2{
+    padding-top: 90%;
+}
+
+
+.overlay_two_content_div img:hover, .overlay_two_content_div_2 img:hover {
+    transform: scale(1.2);
+}
+
+.overlay_two_content_div img, .overlay_two_content_div_2 img{
+    transition: all 0.2s ease-in-out;
+}
