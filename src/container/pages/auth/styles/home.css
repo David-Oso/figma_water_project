@@ -110,3 +110,12 @@ color: white;
 .home_picture1 img, .home_picture2 img, .home_picture3 img{
     transition: all 0.2s ease-in-out;
 }
+
+@media(max-width: 991px){
+    html{
+    font-size: 55%;
+    }
+    .contact_inner_div{
+        width: 8rem;
+    }
+  }

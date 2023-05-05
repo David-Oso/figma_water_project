@@ -6,11 +6,11 @@ body{
 
 
 .overlayTwo{
-    height: 100vh;
-    width: 50vw;
+    height: 50rem;
+    width: 50rem;
     background-color: black;
     margin: auto;
-    padding: 10pt;
+    padding: 1%;
     border-radius: 1cm;
 }
 
@@ -21,16 +21,16 @@ body{
 .overlay_two_div{
     display: grid;
     grid-template-columns: 1fr 1fr;
-    margin: 60px;
-    height: 80vh;
+    margin: 3rem;
+    height: 30rem;
 }
 .overlay_two_content_div, .overlay_two_content_div_2{
-    padding: 14pt ;
-    width: 200pt;
+    padding: 2rem;
+    width: 20rem;
 }
 
 .overlayTwoTopImage, .overlayTwoDownImage{
-    width: 200pt;
+    width: 18rem;
 }
 
 .overlay_two_text_div, .overlay_two_text_div_2{
@@ -43,12 +43,12 @@ body{
 }
 
 .overlay_two_text_div, .overlay_two_text_div_2 p{
-    font-size: 20px;
+    font-size: 1.4rem;
     font-weight: 100;
 }
 
 .overlay_two_content_div_2{
-    padding-top: 90%;
+    padding-top: 20rem;
 }
 
 

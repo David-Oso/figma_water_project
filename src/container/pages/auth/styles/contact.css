@@ -6,8 +6,8 @@ body{
 
 .contact{
     background-color: #0E323c;
-    height: 100vh;
-    width: 60vw;
+    height: 50rem;
+    width:60rem;
     margin: auto;
 }
 
@@ -15,8 +15,8 @@ body{
     background-image: url("../../../../assets/images/svg/homeBackground.svg");
     background-repeat: no-repeat;
     position: static;
-    height: 45%;
-    width: 100%;
+    height: 22rem;
+    width: 60rem;
 }
 
 .contact_inner_div_1{
