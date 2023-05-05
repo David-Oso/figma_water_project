@@ -8,7 +8,7 @@ function OverlayTwo(){
             <h2>Choose your Destination</h2>
             <div className="overlay_two_div">
                 <div className="overlay_two_content_div">
-                    <img src={overlayTwoTopImage} alt="nature" className="overlayTwoTopImage"/>
+                    <a href="/"><img src={overlayTwoTopImage} alt="nature" className="overlayTwoTopImage"/></a>
                     <div className="overlay_two_text_div">
                         <h3>
                             Punta Monita
@@ -19,7 +19,7 @@ function OverlayTwo(){
                     </div>
                 </div>
                 <div className="overlay_two_content_div_2">
-                    <img src={overlayTwoDownImage} alt="nature" className="overlayTwoDownImage"/>
+                    <a href="/"><img src={overlayTwoDownImage} alt="nature" className="overlayTwoDownImage"/></a>
                     <div className="overlay_two_text_div_2">
                         <h3>
                             Punta Monita

@@ -9,7 +9,7 @@ function StartJourney(){
             </div>
             <div className="start_journey_div_2">
                 <p><img src={arrow} alt="" className="startJourneyArrow"/></p>
-                <p>Start My Journey Today</p>
+                <a href="/overlayOne"><p>Start My Journey Today</p></a>
             </div>
         </div>
     )

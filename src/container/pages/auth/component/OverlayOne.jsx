@@ -6,7 +6,7 @@ import "../styles/sass.scss";
 function OverlayOne(){
 return(
     <div className="over_lay">
-        <img src={image} alt="dottedBox" className="dottedBoxImage"/>
+        <a href="/overlayTwo"><img src={image} alt="dottedBox" className="dottedBoxImage"/></a>
     </div>
     )
 }

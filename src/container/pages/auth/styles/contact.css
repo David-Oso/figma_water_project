@@ -58,6 +58,10 @@ body{
     margin-left: 15%;
 }
 
+.nav_start_journey:hover{
+    color: white;
+}
+
 .contact_arrow{
     width: 20px;
     margin-left: -2%;
