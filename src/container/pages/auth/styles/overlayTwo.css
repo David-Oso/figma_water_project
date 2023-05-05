@@ -50,3 +50,12 @@ body{
 .overlay_two_content_div_2{
     padding-top: 90%;
 }
+
+
+.overlay_two_content_div img:hover, .overlay_two_content_div_2 img:hover {
+    transform: scale(1.2);
+}
+
+.overlay_two_content_div img, .overlay_two_content_div_2 img{
+    transition: all 0.2s ease-in-out;
+}

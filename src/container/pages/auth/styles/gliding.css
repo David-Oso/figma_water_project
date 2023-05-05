@@ -1,0 +1,30 @@
+body{
+    background-color: #2D2C2C;
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+.gliding{
+    display: grid; 
+    grid-template-columns: 1fr 2fr; 
+    margin-top: 5%;
+    /* background-color: black; */
+}
+
+.gliding_div_1{
+    color: white;
+    text-align: left;
+    height:90%;
+    width: 60%;
+    font-size: 30pt;
+    margin-left: 5%;
+}
+
+.gliding_div_2{
+    height: 48%;
+    width: 3%;
+    border-radius: 0.1cm;
+    background-color: #fff;
+    margin-left: 90%;
+    margin-top: 55%;
+}
